@@ -1,0 +1,32 @@
+[ {
+  "baseItem" : {
+    "id" : "_Ta9RoBg2Ee6MT9CMsyAmpA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_FLEEcBg2Ee6MT9CMsyAmpA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_vUI0cBg1Ee6MT9CMsyAmpA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FLEEcBg2Ee6MT9CMsyAmpA - DimProduct",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_FLEEcBg2Ee6MT9CMsyAmpA - DimSalesOrder",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_FLEEcBg2Ee6MT9CMsyAmpA - DimStatusOrder",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_vUI0cBg1Ee6MT9CMsyAmpA - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

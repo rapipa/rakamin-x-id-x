@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_YWnQIBgyEe6sCd57BI1Iag" name="anjing" id="_C_5KMBgyEe6sCd57BI1Iag" label="anjing" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://DESKTOP-VRU4NB8\RIZKY:52890/DWH_STAGING;integratedSecurity=true" dbVersionString="JTDS" Port="52890" Username="DESKTOP-VRU4NB8\D E L L" Password="" ServerName="DESKTOP-VRU4NB8\RIZKY" DatasourceName="" FileFieldName="" SID="DWH_STAGING" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="integratedSecurity=true" StandardSQL="true" SQLMode="false" UiSchema="">
+  <taggedValue xmi:id="_YWnQIRgyEe6sCd57BI1Iag" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_YW_qoBgyEe6sCd57BI1Iag" tag="package filter" value=""/>
+  <taggedValue xmi:id="_YW_qoRgyEe6sCd57BI1Iag" tag="Status" value=""/>
+  <taggedValue xmi:id="_YW_qohgyEe6sCd57BI1Iag" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_YW_qoxgyEe6sCd57BI1Iag" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_YW_qpBgyEe6sCd57BI1Iag" tag="Description" value=""/>
+  <taggedValue xmi:id="_YW_qpRgyEe6sCd57BI1Iag" tag="Author" value=""/>
+  <taggedValue xmi:id="_YW_qphgyEe6sCd57BI1Iag" tag="otherParameter"/>
+  <parameters xmi:id="_YWnQIhgyEe6sCd57BI1Iag" key="CONN_PARA_KEY_USERNAME" value="DESKTOP-VRU4NB8\D E L L"/>
+</TalendMetadata:DatabaseConnection>
